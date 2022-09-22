@@ -1,7 +1,7 @@
 # Hi there, I am Suriya 👋
 
 - 🔭 I’m currently working on NodeJS, React Projects.
-- 🌱 I’m currently learning Deep Learning and Tensorflow.
+- 🌱 I’m currently learning NextJS tailwindCSS.
 - 👯 I’m looking to collaborate on Deep Learning Projects.
 - 📢 Languages: HTML5, CSS3, JavaScript, Python, Java, NodeJS, ReactJS, C.
 
