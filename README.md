@@ -15,6 +15,7 @@
 
 ### 📈 GitHub Stats
 Google Clone Demo -- https://google-clone-suriyaprakash5.vercel.app/
+Instagram Clone Demo -- https://instagram-clone-da70a.firebaseapp.com/
 
 <!--
 **ThibaMahlezana/ThibaMahlezana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
